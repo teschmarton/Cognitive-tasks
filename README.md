@@ -7,9 +7,10 @@ In the folder, cognitive psychology tasks are available in the form of computer 
 
 #magyar verzió
 
-A mappában kognitív pszichológiai feladatok találhatók számítógépes program formájában, amelyek a humán mentális reprezentációk különböző aspektusainak feltárását célozzák. A programok kizárólag reakcióidőt mérnek, a résztvevőnek semmiféle személyes adata nem kerül rögzítésre. Az adatok tárolása és felhasználása anonim módon zajlik. A tömörített mappák letöltését és kicsomagolását követően lehet futtatni a program.exe fájlt. A feladat végeztével a mappában megjelenik egy "adat.xlsx" nevű Excel fájl, ami a reakcióidőket tartalmazza, és az adatelemzés alapjául szolgál. A feladatok demontrációs célokat szolgálnak, és nem tekintendők komoly kutatási eszközöknek.
+A mappában kognitív pszichológiai feladatok találhatók számítógépes program formájában, amelyek a humán mentális reprezentációk különböző aspektusainak feltárását célozzák. A programok kizárólag reakcióidőt mérnek, a résztvevőnek semmiféle személyes adata nem kerül rögzítésre. Az adatok tárolása és felhasználása anonim módon zajlik. A tömörített mappák letöltését és kicsomagolását követően lehet futtatni a program.exe fájlt. A feladat végeztével a mappában megjelenik egy "adat.xlsx" nevű Excel fájl, ami a reakcióidőket tartalmazza, és az adatelemzés alapjául szolgál. A feladatok demonstrációs célokat szolgálnak, és nem tekintendők komoly kutatási eszközöknek.
 
 NOTES:
 
 All the pictures (jpeg/png) used in the tasks stem from the website vecteezy.com
+
 A feladat során felhasznált összes png/jpeg kép a vecteezy.com oldalról származik
